@@ -1,0 +1,5 @@
+Host *
+    Port 2022
+    User sds
+    IdentityFile ~/.ssh/sds_identity
+    StrictHostKeyChecking no
